@@ -2,7 +2,11 @@
 
 <h2 align="center">About me</h2>
 <div>
-  
+  <img src="https://avatars.githubusercontent.com/u/22367065?v=4" alt="me Blackwhisky" width="210" height="210" align="right"/>
+  <ul>
+    <br><br>
+    
+  </ul>
 </div>
 - 👀 I’m interested in learning new inovations.
 - 🌱 I’m currently learning HTML,CSS and Javaschript
