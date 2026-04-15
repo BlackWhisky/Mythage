@@ -2,7 +2,7 @@
 
 <h2 align="center">About me</h2>
 <div>
-  <img src="https://avatars.githubusercontent.com/u/22367065?v=4" alt="me Blackwhisky" width="210" height="210" align="right"/>
+  <img src="https://avatars.githubusercontent.com/u/22367065?v=4" alt="me Blackwhisky" width="210" height="auto" align="right"/>
   <ul>
     <br><br>
     <li>I'm a ICT Servicedesk Employe at Vomar Voordeelmarkt</li>
