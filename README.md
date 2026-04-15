@@ -5,11 +5,11 @@
   <img src="https://avatars.githubusercontent.com/u/22367065?v=4" alt="me Blackwhisky" width="210" height="auto" align="right"/>
   <ul>
     <br><br>
-    <li>I'm a ICT Servicedesk Employe at Vomar Voordeelmarkt</li>
-    <li>I got my licence Frontend Web Development in November 2022 at Hogeschool Novi</li>
-    <li>I'm activly learning and building my portfolio with help of the platform Frontend Mentor</li>
-    <li>I'm currently learning HTML,CSS,JS,React,Vite </li>
-    <li>My hobbies include of Miniture-painting, Boardgames, video-games and coding</li>
+    <li>💻 I'm a ICT Servicedesk Employe at Vomar Voordeelmarkt</li>
+    <li>🎓 I got my licence Frontend Web Development in November 2022 at Hogeschool Novi</li>
+    <li>📚 I'm activly learning and building my portfolio with help of the platform Frontend Mentor</li>
+    <li>📚 I'm currently learning HTML,CSS,JS,React,Vite </li>
+    <li>🍵 My hobbies include of Miniture-painting, Boardgames, video-games and coding</li>
   </ul>
 </div>
 <br clear="all">
