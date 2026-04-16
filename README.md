@@ -22,7 +22,7 @@
 
   <p align="center"><b>Frontend</b></p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vite,react"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,vite,react,figma"/>
   </p>
 
   <h2 align="center">Projects</h2>
