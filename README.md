@@ -47,6 +47,9 @@
   <a href="https://github.com/BlackWhisky/Racipe-Page">
   <img src="https://img.shields.io/badge/Newbie-Recipe_Page-rgb(6%2C182%2C212)?logo=frontendmentor&logoColor=white"></a>
 
+  <a href="[https://github.com/BlackWhisky/Racipe-Page](https://github.com/BlackWhisky/Product-Preview-Card-Component)">
+  <img src="https://img.shields.io/badge/Newbie-Product-preview-Card-Component-rgb(6%2C182%2C212)?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 <!---
 Mythage/Mythage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
