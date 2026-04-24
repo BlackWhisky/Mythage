@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Newbie-Recipe_Page-rgb(6%2C182%2C212)?logo=frontendmentor&logoColor=white"></a>
 
   <a href="[https://github.com/BlackWhisky/Racipe-Page](https://github.com/BlackWhisky/Product-Preview-Card-Component)">
-  <img src="https://img.shields.io/badge/Newbie-Product-preview-Card-Component-rgb(6%2C182%2C212)?logo=frontendmentor&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Newbie-Four_Card_Feature_Section-rgb(6%2C182%2C212)?logo=frontendmentor&logoColor=white"></a>
 
 </p>
 <!---
